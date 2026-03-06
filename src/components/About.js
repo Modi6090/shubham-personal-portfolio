@@ -69,18 +69,18 @@ const About = () => {
             <h3 className="mb-3" style={{ fontSize: '1.5rem' }}>My Story</h3>
             <div style={{ color: 'var(--text-secondary)', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
               <p>
-                I'm a passionate Computer Science Engineering student and self-taught full-stack developer
+                I&apos;m a passionate Computer Science Engineering student and self-taught full-stack developer
                 with a deep love for creating innovative web solutions. My journey in technology began with
                 curiosity and has evolved into a dedicated pursuit of excellence through self-learning.
               </p>
               <p>
                 I believe in the power of hands-on learning, clean code, and user-centered design.
                 Every project I work on is an opportunity to push boundaries and create something
-                meaningful that can make a difference in people's lives.
+                meaningful that can make a difference in people&apos;s lives.
               </p>
               <p>
-                As a self-taught developer, I've learned to be resourceful, persistent, and always
-                eager to learn new technologies. When I'm not coding, you can find me exploring new
+                As a self-taught developer, I&apos;ve learned to be resourceful, persistent, and always
+                eager to learn new technologies. When I&apos;m not coding, you can find me exploring new
                 technologies, contributing to open-source projects, or sharing knowledge with the
                 developer community.
               </p>
